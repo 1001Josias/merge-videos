@@ -1,0 +1,27 @@
+{
+  "name": "merge-videos",
+  "version": "1.0.0",
+  "description": "Merge multiple videos into just one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1001Josias/merge-videos.git"
+  },
+  "keywords": [
+    "merge videos",
+    "join videos"
+  ],
+  "author": "Josias Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1001Josias/merge-videos/issues"
+  },
+  "homepage": "https://github.com/1001Josias/merge-videos#readme",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
