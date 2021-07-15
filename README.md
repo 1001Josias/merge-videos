@@ -4,6 +4,6 @@ Have several videos merged in a few seconds, this is possible because your video
 
 To start using, type the command below:
 
-npm -i merge-videos
+git clone https://github.com/1001Josias/merge-videos.git
 
-* it is necessary to have nodejs installed.
+* it is necessary to have nodejs and git installed.
